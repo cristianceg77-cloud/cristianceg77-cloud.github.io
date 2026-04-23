@@ -1,0 +1,1 @@
+import{i as e}from"./main-CHmx87V-.js";function t(){e.init(),console.log(`Global shortcuts initialized`)}export{t};
